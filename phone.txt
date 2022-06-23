@@ -1,4 +1,8 @@
 phone
 
+<<<<<<< HEAD
 gorillglass
 touchscreen
+=======
+gorilla glass
+>>>>>>> internet
